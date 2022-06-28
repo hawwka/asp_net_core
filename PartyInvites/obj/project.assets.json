@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyWebProjects\\PartyInvites\\PartyInvites.csproj",
+      "projectUniqueName": "E:\\MyWebProjects\\asp_net_core\\PartyInvites\\PartyInvites.csproj",
       "projectName": "PartyInvites",
-      "projectPath": "E:\\MyWebProjects\\PartyInvites\\PartyInvites.csproj",
+      "projectPath": "E:\\MyWebProjects\\asp_net_core\\PartyInvites\\PartyInvites.csproj",
       "packagesPath": "C:\\Users\\Poium\\.nuget\\packages\\",
-      "outputPath": "E:\\MyWebProjects\\PartyInvites\\obj\\",
+      "outputPath": "E:\\MyWebProjects\\asp_net_core\\PartyInvites\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
